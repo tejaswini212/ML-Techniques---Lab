@@ -1,2 +1,2 @@
 # ML-Techniques---Lab
- Repository for all the machine learning labs in winter sem'21
+ Repository for all the machine learning labs during winter sem'21
